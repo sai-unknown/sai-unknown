@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<h1 align="center">I'm Sandeep Rathod</h1>
+<h1 align="center">I'm Sandeep Rathod | BE CSE (AI & DS) | Computer Vision & Data Analytics</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-unknown&label=Profile%20views&color=0e75b6&style=flat" alt="sai-unknown" /> </p>
 
-- 🌱 I’m currently learning **Frameworks DBMS**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **sandeeprathod455161@gmai.com**
 
